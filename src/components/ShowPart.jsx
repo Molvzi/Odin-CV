@@ -1,4 +1,4 @@
-import '../style/left.css'
+import '../style/Left.css'
 
 function ShowPart({ personalInfo }) {
   return (
